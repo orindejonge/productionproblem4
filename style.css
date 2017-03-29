@@ -1,0 +1,37 @@
+body {
+  background: url("https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2012/10/Earth.jpg") no-repeat center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: 1em;
+  font-family: fantasy;
+}
+h1 {
+  color: #ea3a3a;
+  font-family: Amatic SC;
+  font-size: 60px;
+  margin: 30px;	
+  text-align:center;
+}
+table {
+  border-collapse: separate;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+table td, th {
+  font-family: Architects Daughter;
+  background-color: #ffffff; opacity: 0.9; 
+  border: 2px solid #f7ef62;
+  border-radius: 5px;
+  text-align: left;
+  color: #ea3a3a; 
+  font-size: 22px;
+}
+th {
+  height: 50px;
+  text-align: center;
+  color: blue;
+}
+.numbers {
+  text-align: center;
+}
